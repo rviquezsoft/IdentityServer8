@@ -1,8 +1,8 @@
 # IdentityServer8
 
-**Recompilación de IdentityServer4 para .NET 8**
+**Recompilación de IdentityServer4 para .NET 6,7,8**
 
-Este repositorio contiene una recompilación no oficial del proyecto IdentityServer4, adaptada para funcionar con .NET 8.
+Este repositorio contiene una recompilación no oficial del proyecto IdentityServer4, adaptada para funcionar con .NET 6,7,8.
 
 ## ⚠️ Aviso Legal
 
