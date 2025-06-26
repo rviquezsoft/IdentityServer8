@@ -2,7 +2,7 @@
 
 **Recompilación de IdentityServer4 para .NET 8**
 
-Este repositorio contiene una recompilación no oficial del proyecto [IdentityServer4](https://github.com/DuendeSoftware/IdentityServer4), adaptada para funcionar con .NET 8.
+Este repositorio contiene una recompilación no oficial del proyecto IdentityServer4, adaptada para funcionar con .NET 8.
 
 ## ⚠️ Aviso Legal
 
