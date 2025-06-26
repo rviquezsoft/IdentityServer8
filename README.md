@@ -6,7 +6,7 @@ Este repositorio contiene una recompilación no oficial del proyecto IdentitySer
 
 ## ⚠️ Aviso Legal
 
-Este proyecto **no es una versión oficial** ni pretende reemplazar al software original. Solo ha sido modificado para propósitos de uso en entornos  que requieran compatibilidad con .NET 6,7,8.
+Este proyecto **no es una versión oficial** ni pretende reemplazar al software original. Solo ha sido modificado para propósitos de uso en entornos que requieran compatibilidad con .NET 6,7,8.
 
 ### 📝 Licencia
 
@@ -19,6 +19,8 @@ Para más información, consulta:
 
 - Código fuente recompilado
 - Soporte para .NET 6,7,8
+- Integración actual con MySQL como motor de base de datos relacional
+- **Puede recompilarse para funcionar con otros motores relacionales**, como SQL Server, PostgreSQL, etc.
 - No se han agregado nuevas funcionalidades
 
 ## 🤝 Agradecimientos
