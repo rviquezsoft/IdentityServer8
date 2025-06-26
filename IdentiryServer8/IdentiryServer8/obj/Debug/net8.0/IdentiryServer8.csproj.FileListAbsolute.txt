@@ -1,0 +1,17 @@
+C:\Users\RichardEduardoViquez\source\repos\IdentiryServer8\IdentiryServer8\obj\Debug\net8.0\IdentiryServer8.csproj.AssemblyReference.cache
+C:\Users\RichardEduardoViquez\source\repos\IdentiryServer8\IdentiryServer8\obj\Debug\net8.0\IdentiryServer8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RichardEduardoViquez\source\repos\IdentiryServer8\IdentiryServer8\obj\Debug\net8.0\IdentiryServer8.AssemblyInfoInputs.cache
+C:\Users\RichardEduardoViquez\source\repos\IdentiryServer8\IdentiryServer8\obj\Debug\net8.0\IdentiryServer8.AssemblyInfo.cs
+C:\Users\RichardEduardoViquez\source\repos\IdentiryServer8\IdentiryServer8\obj\Debug\net8.0\IdentiryServer8.csproj.CoreCompileInputs.cache
+C:\Users\RichardEduardoViquez\source\repos\IdentiryServer8\IdentiryServer8\bin\Debug\net8.0\IdentiryServer8.deps.json
+C:\Users\RichardEduardoViquez\source\repos\IdentiryServer8\IdentiryServer8\bin\Debug\net8.0\IdentiryServer8.dll
+C:\Users\RichardEduardoViquez\source\repos\IdentiryServer8\IdentiryServer8\bin\Debug\net8.0\IdentiryServer8.pdb
+C:\Users\RichardEduardoViquez\source\repos\IdentiryServer8\IdentiryServer8\bin\Debug\net8.0\Identity8Storage.dll
+C:\Users\RichardEduardoViquez\source\repos\IdentiryServer8\IdentiryServer8\bin\Debug\net8.0\IdentityModel8.dll
+C:\Users\RichardEduardoViquez\source\repos\IdentiryServer8\IdentiryServer8\bin\Debug\net8.0\Identity8Storage.pdb
+C:\Users\RichardEduardoViquez\source\repos\IdentiryServer8\IdentiryServer8\bin\Debug\net8.0\IdentityModel8.pdb
+C:\Users\RichardEduardoViquez\source\repos\IdentiryServer8\IdentiryServer8\obj\Debug\net8.0\Identiry.D6D7F232.Up2Date
+C:\Users\RichardEduardoViquez\source\repos\IdentiryServer8\IdentiryServer8\obj\Debug\net8.0\IdentiryServer8.dll
+C:\Users\RichardEduardoViquez\source\repos\IdentiryServer8\IdentiryServer8\obj\Debug\net8.0\refint\IdentiryServer8.dll
+C:\Users\RichardEduardoViquez\source\repos\IdentiryServer8\IdentiryServer8\obj\Debug\net8.0\IdentiryServer8.pdb
+C:\Users\RichardEduardoViquez\source\repos\IdentiryServer8\IdentiryServer8\obj\Debug\net8.0\ref\IdentiryServer8.dll

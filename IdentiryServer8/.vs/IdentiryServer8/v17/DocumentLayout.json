@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RichardEduardoViquez\\source\\repos\\IdentiryServer8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D81B64CE-7F5D-4518-9E5C-82CADD8609FD}|Host\\Host.csproj|c:\\users\\richardeduardoviquez\\source\\repos\\identiryserver8\\host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81B64CE-7F5D-4518-9E5C-82CADD8609FD}|Host\\Host.csproj|solutionrelative:host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81B64CE-7F5D-4518-9E5C-82CADD8609FD}|Host\\Host.csproj|c:\\users\\richardeduardoviquez\\source\\repos\\identiryserver8\\host\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81B64CE-7F5D-4518-9E5C-82CADD8609FD}|Host\\Host.csproj|solutionrelative:host\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81B64CE-7F5D-4518-9E5C-82CADD8609FD}|Host\\Host.csproj|c:\\users\\richardeduardoviquez\\source\\repos\\identiryserver8\\host\\quickstart\\grants\\grantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81B64CE-7F5D-4518-9E5C-82CADD8609FD}|Host\\Host.csproj|solutionrelative:host\\quickstart\\grants\\grantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GrantsController.cs",
+              "DocumentMoniker": "C:\\Users\\RichardEduardoViquez\\source\\repos\\IdentiryServer8\\Host\\Quickstart\\Grants\\GrantsController.cs",
+              "RelativeDocumentMoniker": "Host\\Quickstart\\Grants\\GrantsController.cs",
+              "ToolTip": "C:\\Users\\RichardEduardoViquez\\source\\repos\\IdentiryServer8\\Host\\Quickstart\\Grants\\GrantsController.cs",
+              "RelativeToolTip": "Host\\Quickstart\\Grants\\GrantsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAtwBkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T03:25:09.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RichardEduardoViquez\\source\\repos\\IdentiryServer8\\Host\\Program.cs",
+              "RelativeDocumentMoniker": "Host\\Program.cs",
+              "ToolTip": "C:\\Users\\RichardEduardoViquez\\source\\repos\\IdentiryServer8\\Host\\Program.cs",
+              "RelativeToolTip": "Host\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAlwCoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T03:24:37.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\RichardEduardoViquez\\source\\repos\\IdentiryServer8\\Host\\Startup.cs",
+              "RelativeDocumentMoniker": "Host\\Startup.cs",
+              "ToolTip": "C:\\Users\\RichardEduardoViquez\\source\\repos\\IdentiryServer8\\Host\\Startup.cs",
+              "RelativeToolTip": "Host\\Startup.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAACYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T03:22:26.932Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 800,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\RichardEduardoViquez\source\repos\IdentityModel8\IdentityModel8\bin\Release\net8.0\IdentityModel8.deps.json
+C:\Users\RichardEduardoViquez\source\repos\IdentityModel8\IdentityModel8\bin\Release\net8.0\IdentityModel8.dll
+C:\Users\RichardEduardoViquez\source\repos\IdentityModel8\IdentityModel8\bin\Release\net8.0\IdentityModel8.pdb
+C:\Users\RichardEduardoViquez\source\repos\IdentityModel8\IdentityModel8\obj\Release\net8.0\IdentityModel8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RichardEduardoViquez\source\repos\IdentityModel8\IdentityModel8\obj\Release\net8.0\IdentityModel8.AssemblyInfoInputs.cache
+C:\Users\RichardEduardoViquez\source\repos\IdentityModel8\IdentityModel8\obj\Release\net8.0\IdentityModel8.AssemblyInfo.cs
+C:\Users\RichardEduardoViquez\source\repos\IdentityModel8\IdentityModel8\obj\Release\net8.0\IdentityModel8.csproj.CoreCompileInputs.cache
+C:\Users\RichardEduardoViquez\source\repos\IdentityModel8\IdentityModel8\obj\Release\net8.0\IdentityModel8.dll
+C:\Users\RichardEduardoViquez\source\repos\IdentityModel8\IdentityModel8\obj\Release\net8.0\refint\IdentityModel8.dll
+C:\Users\RichardEduardoViquez\source\repos\IdentityModel8\IdentityModel8\obj\Release\net8.0\IdentityModel8.pdb
+C:\Users\RichardEduardoViquez\source\repos\IdentityModel8\IdentityModel8\obj\Release\net8.0\ref\IdentityModel8.dll

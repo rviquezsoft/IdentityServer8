@@ -1,0 +1,15 @@
+C:\Users\RichardEduardoViquez\source\repos\Identity8Storage\Identity8Storage\bin\Release\net8.0\Identity8Storage.deps.json
+C:\Users\RichardEduardoViquez\source\repos\Identity8Storage\Identity8Storage\bin\Release\net8.0\Identity8Storage.dll
+C:\Users\RichardEduardoViquez\source\repos\Identity8Storage\Identity8Storage\bin\Release\net8.0\Identity8Storage.pdb
+C:\Users\RichardEduardoViquez\source\repos\Identity8Storage\Identity8Storage\bin\Release\net8.0\IdentityModel8.dll
+C:\Users\RichardEduardoViquez\source\repos\Identity8Storage\Identity8Storage\bin\Release\net8.0\IdentityModel8.pdb
+C:\Users\RichardEduardoViquez\source\repos\Identity8Storage\Identity8Storage\obj\Release\net8.0\Identity8Storage.csproj.AssemblyReference.cache
+C:\Users\RichardEduardoViquez\source\repos\Identity8Storage\Identity8Storage\obj\Release\net8.0\Identity8Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RichardEduardoViquez\source\repos\Identity8Storage\Identity8Storage\obj\Release\net8.0\Identity8Storage.AssemblyInfoInputs.cache
+C:\Users\RichardEduardoViquez\source\repos\Identity8Storage\Identity8Storage\obj\Release\net8.0\Identity8Storage.AssemblyInfo.cs
+C:\Users\RichardEduardoViquez\source\repos\Identity8Storage\Identity8Storage\obj\Release\net8.0\Identity8Storage.csproj.CoreCompileInputs.cache
+C:\Users\RichardEduardoViquez\source\repos\Identity8Storage\Identity8Storage\obj\Release\net8.0\Identity.B8574363.Up2Date
+C:\Users\RichardEduardoViquez\source\repos\Identity8Storage\Identity8Storage\obj\Release\net8.0\Identity8Storage.dll
+C:\Users\RichardEduardoViquez\source\repos\Identity8Storage\Identity8Storage\obj\Release\net8.0\refint\Identity8Storage.dll
+C:\Users\RichardEduardoViquez\source\repos\Identity8Storage\Identity8Storage\obj\Release\net8.0\Identity8Storage.pdb
+C:\Users\RichardEduardoViquez\source\repos\Identity8Storage\Identity8Storage\obj\Release\net8.0\ref\Identity8Storage.dll
